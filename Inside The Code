@@ -1,0 +1,3 @@
+get_word() - this function returns the random string that needs to be guessed, if you want to develop this project, you may add some new words in the vocabulary
+check_for_match()- it checks how many characters are matched with the original string, and strings the new string
+hang()- keeps updating the newly form string guessed by the user, and other main operations occur here
